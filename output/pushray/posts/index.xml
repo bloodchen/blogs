@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pushray Blog</title>
-    <link>/posts/</link>
+    <link>https://pushray.com/blog/posts/</link>
     <description>Recent content in Posts on Pushray Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pushray.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📌 Introducing Pushray: A Privacy-First Platform for Secure, Encrypted Sharing</title>
-      <link>/posts/introducing-pushray/</link>
+      <link>https://pushray.com/blog/posts/introducing-pushray/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/introducing-pushray/</guid>
+      <guid>https://pushray.com/blog/posts/introducing-pushray/</guid>
       <description>Today, we&amp;rsquo;re excited to introduce &lt;strong&gt;Pushray&lt;/strong&gt; — a new way to share files privately, securely, and with a revenue model that rewards creators directly</description>
     </item>
   </channel>

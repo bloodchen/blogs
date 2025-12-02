@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pushray Blog</title>
-    <link>/tags/</link>
+    <link>https://pushray.com/blog/tags/</link>
     <description>Recent content in Tags on Pushray Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pushray.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy</title>
-      <link>/tags/privacy/</link>
+      <link>https://pushray.com/blog/tags/privacy/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/privacy/</guid>
+      <guid>https://pushray.com/blog/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Product</title>
-      <link>/tags/product/</link>
+      <link>https://pushray.com/blog/tags/product/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/product/</guid>
+      <guid>https://pushray.com/blog/tags/product/</guid>
       <description></description>
     </item>
     <item>
       <title>Pushray</title>
-      <link>/tags/pushray/</link>
+      <link>https://pushray.com/blog/tags/pushray/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/pushray/</guid>
+      <guid>https://pushray.com/blog/tags/pushray/</guid>
       <description></description>
     </item>
   </channel>
