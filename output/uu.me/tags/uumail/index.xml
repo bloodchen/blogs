@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>UUMail on UUMail Blog</title>
+		<link>https://uu.me/blog/tags/uumail/</link>
+		<description>Recent content in UUMail on UUMail Blog</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://uu.me/blog/tags/uumail/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Introducing UUMail: Email Aliases and Forwarding for Everyday Privacy</title>
+				<link>https://uu.me/blog/posts/introducing-uumail/</link>
+				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://uu.me/blog/posts/introducing-uumail/</guid>
+				<description>Introducing UUMail, an email alias and forwarding product for safer signups, cleaner identity boundaries, and practical inbox control.</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uu.me/blog/sitemap.xml
