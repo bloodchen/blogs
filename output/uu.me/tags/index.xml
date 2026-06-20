@@ -14,6 +14,20 @@
 		
 			<atom:link href="https://uu.me/blog/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Email Alias</title>
+				<link>https://uu.me/blog/tags/email-alias/</link>
+				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://uu.me/blog/tags/email-alias/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Email Forwarding</title>
+				<link>https://uu.me/blog/tags/email-forwarding/</link>
+				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://uu.me/blog/tags/email-forwarding/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Privacy</title>
 				<link>https://uu.me/blog/tags/privacy/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>

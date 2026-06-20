@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Email alias use case matrix</title>
+  <desc id="desc">A matrix showing which email alias style fits shopping, job search, SaaS, and developer testing.</desc>
+  <rect width="960" height="540" fill="#121827"/>
+  <text x="70" y="74" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Choose aliases by risk and lifespan</text>
+  <line x1="160" y1="440" x2="820" y2="440" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="3"/>
+  <line x1="160" y1="440" x2="160" y2="140" stroke="#FFFFFF" stroke-opacity=".35" stroke-width="3"/>
+  <text x="396" y="490" fill="#AEB8C7" font-family="Inter, Arial, sans-serif" font-size="18">Longer account lifespan</text>
+  <text x="36" y="302" fill="#AEB8C7" font-family="Inter, Arial, sans-serif" font-size="18" transform="rotate(-90 36 302)">Higher exposure risk</text>
+  <g font-family="Inter, Arial, sans-serif" font-weight="700">
+    <circle cx="290" cy="360" r="58" fill="#38BDF8" opacity=".9"/>
+    <text x="246" y="354" fill="#07111D" font-size="17">Shopping</text>
+    <text x="248" y="378" fill="#07111D" font-size="13">easy to rotate</text>
+    <circle cx="508" cy="325" r="64" fill="#2DF3D0" opacity=".92"/>
+    <text x="468" y="319" fill="#07111D" font-size="17">SaaS</text>
+    <text x="452" y="343" fill="#07111D" font-size="13">one per vendor</text>
+    <circle cx="690" cy="238" r="70" fill="#C3F083" opacity=".95"/>
+    <text x="652" y="232" fill="#07111D" font-size="17">Job search</text>
+    <text x="642" y="256" fill="#07111D" font-size="13">keep replies alive</text>
+    <circle cx="390" cy="205" r="62" fill="#F59E0B" opacity=".9"/>
+    <text x="350" y="199" fill="#07111D" font-size="17">Testing</text>
+    <text x="350" y="223" fill="#07111D" font-size="13">many short runs</text>
+  </g>
+</svg>

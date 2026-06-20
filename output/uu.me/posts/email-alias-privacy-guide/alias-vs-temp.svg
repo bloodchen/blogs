@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Email alias vs temporary email</title>
+  <desc id="desc">A side-by-side comparison of email aliases and temporary email addresses.</desc>
+  <rect width="960" height="540" fill="#121827"/>
+  <text x="70" y="78" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Email alias vs temporary email</text>
+  <rect x="70" y="130" width="390" height="330" rx="24" fill="#1A1F2E" stroke="#2DF3D0"/>
+  <rect x="500" y="130" width="390" height="330" rx="24" fill="#1A1F2E" stroke="#F59E0B"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="112" y="190" fill="#FFFFFF" font-size="28" font-weight="800">Email alias</text>
+    <text x="112" y="240" fill="#B7C0CE" font-size="18">Best for accounts you may need later.</text>
+    <text x="112" y="288" fill="#FFFFFF" font-size="18">• Forwards to your real inbox</text>
+    <text x="112" y="326" fill="#FFFFFF" font-size="18">• Can be paused or deleted</text>
+    <text x="112" y="364" fill="#FFFFFF" font-size="18">• Keeps a stable reply path</text>
+    <text x="112" y="402" fill="#FFFFFF" font-size="18">• Good for shopping, SaaS, work</text>
+    <text x="542" y="190" fill="#FFFFFF" font-size="28" font-weight="800">Temporary email</text>
+    <text x="542" y="240" fill="#B7C0CE" font-size="18">Best for one-off, low-trust forms.</text>
+    <text x="542" y="288" fill="#FFFFFF" font-size="18">• Often expires quickly</text>
+    <text x="542" y="326" fill="#FFFFFF" font-size="18">• Weak for account recovery</text>
+    <text x="542" y="364" fill="#FFFFFF" font-size="18">• May be blocked by websites</text>
+    <text x="542" y="402" fill="#FFFFFF" font-size="18">• Good for throwaway trials</text>
+  </g>
+</svg>

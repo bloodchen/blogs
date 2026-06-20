@@ -20,5 +20,12 @@
 				<guid>https://uu.me/blog/categories/announcement/</guid>
 				<description></description>
 			</item>
+			<item>
+				<title>Guides</title>
+				<link>https://uu.me/blog/categories/guides/</link>
+				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://uu.me/blog/categories/guides/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>
