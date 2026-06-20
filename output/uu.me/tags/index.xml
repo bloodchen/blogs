@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on UUMail Blog</title>
-		<link>https://uu.me/blog/tags/</link>
+		<link>https://mail.uu.me/blog/tags/</link>
 		<description>Recent content in Tags on UUMail Blog</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://uu.me/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://mail.uu.me/blog/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Email Alias</title>
-				<link>https://uu.me/blog/tags/email-alias/</link>
+				<link>https://mail.uu.me/blog/tags/email-alias/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://uu.me/blog/tags/email-alias/</guid>
+				<guid>https://mail.uu.me/blog/tags/email-alias/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Email Forwarding</title>
-				<link>https://uu.me/blog/tags/email-forwarding/</link>
+				<link>https://mail.uu.me/blog/tags/email-forwarding/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://uu.me/blog/tags/email-forwarding/</guid>
+				<guid>https://mail.uu.me/blog/tags/email-forwarding/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Privacy</title>
-				<link>https://uu.me/blog/tags/privacy/</link>
+				<link>https://mail.uu.me/blog/tags/privacy/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://uu.me/blog/tags/privacy/</guid>
+				<guid>https://mail.uu.me/blog/tags/privacy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Product</title>
-				<link>https://uu.me/blog/tags/product/</link>
+				<link>https://mail.uu.me/blog/tags/product/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://uu.me/blog/tags/product/</guid>
+				<guid>https://mail.uu.me/blog/tags/product/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>UUMail</title>
-				<link>https://uu.me/blog/tags/uumail/</link>
+				<link>https://mail.uu.me/blog/tags/uumail/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://uu.me/blog/tags/uumail/</guid>
+				<guid>https://mail.uu.me/blog/tags/uumail/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -246,8 +246,8 @@ Start with a few high-value categories, then create vendor-specific aliases for 
         "@type": "Organization",
         "name": "UUMail"
       },
-      "image": "https://uu.me/blog/posts/email-alias-privacy-guide/feature.svg",
-      "mainEntityOfPage": "https://uu.me/blog/posts/email-alias-privacy-guide/"
+      "image": "https://mail.uu.me/blog/posts/email-alias-privacy-guide/feature.svg",
+      "mainEntityOfPage": "https://mail.uu.me/blog/posts/email-alias-privacy-guide/"
     },
     {
       "@type": "FAQPage",
