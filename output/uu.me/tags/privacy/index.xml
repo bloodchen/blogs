@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Privacy on UUMail Blog</title>
-		<link>https://mail.uu.me/blog/tags/privacy/</link>
+		<link>https://uu.me/blog/tags/privacy/</link>
 		<description>Recent content in Privacy on UUMail Blog</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://mail.uu.me/blog/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://uu.me/blog/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Email Alias: 7 Ways to Protect Your Real Inbox</title>
-				<link>https://mail.uu.me/blog/posts/email-alias-privacy-guide/</link>
+				<link>https://uu.me/blog/posts/email-alias-privacy-guide/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://mail.uu.me/blog/posts/email-alias-privacy-guide/</guid>
+				<guid>https://uu.me/blog/posts/email-alias-privacy-guide/</guid>
 				<description>An email alias is a separate address that forwards to your real inbox. Use one per signup to reduce spam, isolate leaks, and keep accounts recoverable.</description>
 			</item>
 			<item>
 				<title>Introducing UUMail: Email Aliases and Forwarding for Everyday Privacy</title>
-				<link>https://mail.uu.me/blog/posts/introducing-uumail/</link>
+				<link>https://uu.me/blog/posts/introducing-uumail/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://mail.uu.me/blog/posts/introducing-uumail/</guid>
+				<guid>https://uu.me/blog/posts/introducing-uumail/</guid>
 				<description>Introducing UUMail, an email alias and forwarding product for safer signups, cleaner identity boundaries, and practical inbox control.</description>
 			</item>
 	</channel>

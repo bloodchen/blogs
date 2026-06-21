@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on UUMail Blog</title>
-		<link>https://mail.uu.me/blog/categories/</link>
+		<link>https://uu.me/blog/categories/</link>
 		<description>Recent content in Categories on UUMail Blog</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://mail.uu.me/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://uu.me/blog/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Announcement</title>
-				<link>https://mail.uu.me/blog/categories/announcement/</link>
+				<link>https://uu.me/blog/categories/announcement/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://mail.uu.me/blog/categories/announcement/</guid>
+				<guid>https://uu.me/blog/categories/announcement/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Guides</title>
-				<link>https://mail.uu.me/blog/categories/guides/</link>
+				<link>https://uu.me/blog/categories/guides/</link>
 				<pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://mail.uu.me/blog/categories/guides/</guid>
+				<guid>https://uu.me/blog/categories/guides/</guid>
 				<description></description>
 			</item>
 	</channel>
